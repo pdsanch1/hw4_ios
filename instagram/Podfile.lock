@@ -1,0 +1,26 @@
+PODS:
+  - Bolts/Tasks (1.9.0)
+  - Parse (1.17.1):
+    - Parse/Core (= 1.17.1)
+  - Parse/Core (1.17.1):
+    - Bolts/Tasks (~> 1.9)
+  - RSKPlaceholderTextView (4.0.0)
+
+DEPENDENCIES:
+  - Parse
+  - RSKPlaceholderTextView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Bolts
+    - Parse
+    - RSKPlaceholderTextView
+
+SPEC CHECKSUMS:
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  Parse: d3edaf8c7c722cb33cb83ba7821d015ae32d362d
+  RSKPlaceholderTextView: 15f1dc1883e103ea605874b863f19ff6b08496d5
+
+PODFILE CHECKSUM: d74e6661365dba8c3abed4b79e8141f9f4a965d5
+
+COCOAPODS: 1.5.3
